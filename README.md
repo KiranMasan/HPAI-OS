@@ -93,6 +93,7 @@ HPAI-OS solves these challenges using Artificial Intelligence by automatically g
 
 * PostgreSQL
 * SQLAlchemy
+* SQLite
 
 ### Artificial Intelligence
 
