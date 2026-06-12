@@ -1,0 +1,48 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# Database
+*.db
+
+# Uploads / voice recordings
+backend/uploads/
+backend/voice_uploads/
+
+# Audio files
+*.wav
+*.mp3
+*.m4a
+
+# Temp files
+*.txt
+
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+
+# Android
+.gradle/
+local.properties
+
+# VS Code
+.vscode/
+
+# IntelliJ / Android Studio
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
